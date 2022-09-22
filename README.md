@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafal11ck
 - 👀 I’m interested in ... not being spied by microsoft
-- 🌱 I’m currently learning ... podman, kubernetees, bittorent, C++, CS, qemu
+- 🌱 I’m currently learning ... OCI containers, C++, CS, qemu, sh, regex, live
 - 💞️ I’m looking to collaborate on ... my competence
 - 📫 How to reach me ... rafal9ck#0361 until I move on to matrix, get server for email hosting.
 
