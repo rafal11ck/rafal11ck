@@ -9,6 +9,8 @@
 + k8s
 + nixos, nix
 + design paterns
++ expo 
+
 
 
 - 📫 How to reach me ... rafal9ck#0361 until I move on to matrix, get server for email hosting.
