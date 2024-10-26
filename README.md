@@ -1,7 +1,16 @@
 - 👋 Hi, I’m @rafal11ck
-- 👀 I’m interested in ... not being spied by microsoft
-- 🌱 I’m currently learning ... OCI containers, C++, CS, qemu, sh, regex, live, k8s, nixos, DDD, design paterns, nix
-- 💞️ I’m looking to collaborate on ... my competence
+#### 🌱 I’m currently learning :
++ OCI containers
++ C++
++ CS
++ qemu
++ sh scripting
++ regex
++ k8s
++ nixos, nix
++ design paterns
+
+
 - 📫 How to reach me ... rafal9ck#0361 until I move on to matrix, get server for email hosting.
 
 <!---
