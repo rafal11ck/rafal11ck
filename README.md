@@ -9,7 +9,8 @@
 + k8s
 + nixos, nix
 + design paterns
-+ expo 
++ expo
++ talos
 
 
 
